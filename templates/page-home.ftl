@@ -41,13 +41,13 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         <#include "menu.ftl">
 
         <section id="intro" role="region">
-            <h2>Welcome to VIVO</h2>
+            <h2>Welcome to the SGUL Academic Profiles pages</h2>
 
-            <p>VIVO is a research-focused discovery tool that enables collaboration among scientists across all disciplines.</p>
-            <p>Browse or search information on people, departments, courses, grants, and publications.</p>
+            <p>SGUL Academic Profiles are a research-focused discovery tool that enables collaboration among scientists across all disciplines.</p>
+            <p>Browse or search information on people and publications.</p>
             
             <section id="search-home" role="region">
-                <h3>Search VIVO</h3>
+                <h3>Search SGUL Academic Profiles</h3>
                 
                 <fieldset>
                     <legend>Search form</legend>

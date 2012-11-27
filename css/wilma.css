@@ -561,7 +561,7 @@ ul#header-nav a.log-out {
 #search-field input.search {
     text-decoration: none;
     background-color: transparent;
-    color: #fff;
+    color: #005594;
     font-size: 14px;
     border: none;
     padding-left: 25px;
@@ -822,7 +822,7 @@ p.external-auth a.blue:hover {
 #search-home-field input.search {
     text-decoration: none;
     background-color: transparent;
-    color: #fff;
+    color: #005594;
     font-size: 18px;
     border: none;
     padding-left: 23px;
@@ -846,7 +846,7 @@ ul#browse-classgroups a {
     padding-bottom: 3px;
 }
 ul#browse-classgroups a:hover {
-    background: url(../images/arrow.gif) 0 10px no-repeat;
+    background: url(../images/arrow.gif) 0 10px no-repeat; 
     color: #2ea0cf;
 }
 ul#browse-classgroups a.selected {
