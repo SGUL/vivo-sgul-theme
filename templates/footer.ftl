@@ -51,7 +51,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             <#if urls.contact??>
                 <li role="listitem"><a href="${urls.contact}" title="contact us">Contact Us</a></li>
             </#if> 
-            <li role="listitem"><a href="http://www.vivoweb.org/support" target="blank" title="support">Support</a></li>
+            <!--li role="listitem"><a href="http://www.vivoweb.org/support" target="blank" title="support">Support</a></li-->
         </ul>
     </nav>
 </footer>

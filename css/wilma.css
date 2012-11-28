@@ -983,8 +983,8 @@ p{
 }
 .green.button,
 .green.button:visited {
-    background-color: #749a02;
-    color: #fff;
+    background-color: #def7ff; /* #749a02; */
+    color: #005594;
 }
 .green.button:hover {
     background-color: #b2d15a;
